@@ -5,3 +5,7 @@ Ich habe in der letzten lernperiode gut den Lernatelier nutzen können, vorallem
 ## 25.10.24
 
 Weil wir jetzt 2 neue Module in dieser Woche gestarten haben, habe ich heute mehr zeit am Modul 322 zu arbeiten. Wenn ich noch Zeit übrig habe, werde ich im neuen Modul 294 Frontend vorarbeiten.
+
+## 1.11.24
+
+Nächste woche wird der Test vom Modul 320 sein und ich werde heute die meiste Zeit nutzen um zu lernen.
