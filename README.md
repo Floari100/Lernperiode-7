@@ -12,4 +12,4 @@ Nächste woche wird der Test vom Modul 320 sein und ich werde heute die meiste Z
 
 ## 8.11.24
 
-Heute habe ich im Modul 294 mit JavaScript gearbeitet und mir die Grundlagen von HTTP und JSON angeschaut. Dabei habe ich besser verstanden, wie Daten gesendet und empfangen werden. Ich konnte mein Wissen in JavaScript erweitern. Weiter habe ich im Modul 346 gearbeitet und mir Videos dazu angeschaut. 
+Heute habe ich im Modul 294 mit JavaScript gearbeitet und mir die Grundlagen von HTTP und JSON angeschaut. Dabei habe ich besser verstanden, wie Daten gesendet und empfangen werden. Ich konnte mein Wissen in JavaScript erweitern. Weiter habe ich im Modul 346 gearbeitet und mir Videos dazu angeschaut. Bisher brauche ich keine Unterstützung, da ich die Konzepte und Aufgaben gut nachvollziehen konnte. Es gab zwar Momente in denen ich nachdenken musste, um die Zusammenhänge zwischen HTTP, JSON und JavaScript zu verstehen, aber diese Herausforderungen konnte ich selbstständig lösen. 
