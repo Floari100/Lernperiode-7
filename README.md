@@ -9,3 +9,7 @@ Weil wir jetzt 2 neue Module in dieser Woche gestarten haben, habe ich heute meh
 ## 1.11.24
 
 Nächste woche wird der Test vom Modul 320 sein und ich werde heute die meiste Zeit nutzen um zu lernen.
+
+## 8.11.24
+
+Heute habe ich im Modul 294 mit JavaScript gearbeitet und mir die Grundlagen von HTTP und JSON angeschaut. Dabei habe ich besser verstanden, wie Daten gesendet und empfangen werden. Ich konnte mein Wissen in JavaScript erweitern. Weiter habe ich im Modul 346 gearbeitet und mir Videos dazu angeschaut. 
