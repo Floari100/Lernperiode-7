@@ -26,3 +26,9 @@ Heute habe ich im Modul 294 mit JavaScript gearbeitet und mir die Grundlagen von
 
 Am heutigen Tag möchte ich weiter am AWS Modul arbeiten, zuerst möchte ich noch mein Problem lösen, welches ich hatte beim arbeiten. Dannach möchte ich einfach noch ein wenig arbeiten um aufzuholen. Die restliche Zeit nutze ich um am Modul 294 Javascript zu arbeiten
 
+## 22.11.24
+
+Ich werde heute das AWS Modul zusammengefasst repetieren und meine Sachen vorbereiten für die LB, welche nächste Woche startet, falls noch Zeit übrig bleibt löse ich weiter am Modul 294.
+
+
+
