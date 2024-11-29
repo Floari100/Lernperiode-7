@@ -30,5 +30,9 @@ Am heutigen Tag möchte ich weiter am AWS Modul arbeiten, zuerst möchte ich noc
 
 Ich werde heute das AWS Modul zusammengefasst repetieren und meine Sachen vorbereiten für die LB, welche nächste Woche startet, falls noch Zeit übrig bleibt löse ich weiter am Modul 294.
 
+## 29.11.24
+
+Die LB des AWS Moduls hat angefangen un dich habe meine heutige Zeit genutzt an dieser zu arbeiten und meine schon gemachten Arbeiten zu verbessern
+
 
 
