@@ -32,7 +32,7 @@ Ich werde heute das AWS Modul zusammengefasst repetieren und meine Sachen vorber
 
 ## 29.11.24
 
-Die LB des AWS Moduls hat angefangen un dich habe meine heutige Zeit genutzt an dieser zu arbeiten und meine schon gemachten Arbeiten zu verbessern
+Die LB des AWS Moduls hat angefangen und ich habe meine heutige Zeit genutzt an dieser zu arbeiten und meine schon gemachten Arbeiten zu verbessern
 
 
 
