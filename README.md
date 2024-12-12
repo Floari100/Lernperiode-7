@@ -34,5 +34,9 @@ Ich werde heute das AWS Modul zusammengefasst repetieren und meine Sachen vorber
 
 Die LB des AWS Moduls hat angefangen und ich habe meine heutige Zeit genutzt an dieser zu arbeiten und meine schon gemachten Arbeiten zu verbessern
 
+## 6.12.24
+
+LB des Moduls 294 ist am laufen, leider darf man nur in den 10 lektionen arbeiten, ich habe aber meine Zeit im Lernatelier genutzt um mich für das selenium testen, CRUD-Operatioen und JWT zu vorbereiten.
+
 
 
