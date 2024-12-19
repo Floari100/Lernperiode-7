@@ -38,5 +38,8 @@ Die LB des AWS Moduls hat angefangen und ich habe meine heutige Zeit genutzt an 
 
 LB des Moduls 294 ist am laufen, leider darf man nur in den 10 lektionen arbeiten, ich habe aber meine Zeit im Lernatelier genutzt um mich für das selenium testen, CRUD-Operatioen und JWT zu vorbereiten.
 
+## 13.12.24
+
+Arbeit aus dem Modul 347 in Docker nachholen, da ich mit meinem Mac ein wenig probleme hatte. Weiter arbeiten am Modul 450, weil die LB nach den Ferien abgegeben wird, erstelle ich eine Zusammenfassung damit ich das Wissen über die Ferien nicht verliere.
 
 
